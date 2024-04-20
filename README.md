@@ -14,3 +14,6 @@ Since SFML doesn't include UI components (buttons, text inputs) I had to program
 ## Credits
 
 - [Tomáš Žilínek](https://www.linkedin.com/in/tomaszilinek)
+
+![image description](res/menu.png)
+![image description](res/placement.png)
