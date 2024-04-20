@@ -9,7 +9,7 @@ Since SFML doesn't include UI components (buttons, text inputs) I had to program
 1. Unzip the SFML file and place the SFML folder in the root.
 2. Manually link SFML like in this [video](https://youtu.be/yEiZalvDOj4?si=K4HHl0B0l9rvDUVq)
 3. Visual studio with C++ compiler to run (or use your own compiler if you know what you are doing)
-  - Make sure to build under x86 and not x64
+   - Make sure to build under x86 and not x64
 
 ## Credits
 
