@@ -7,7 +7,8 @@ Since SFML doesn't include UI components (buttons, text inputs) I had to program
 ## Install
 
 1. Unzip the SFML file and place the SFML folder in the root.
-2. Visual studio to run (or use your own compiler)
+2. Delete the .vs folder if you want to. But if you do it you will have to manually link SFML like in this [video](https://youtu.be/yEiZalvDOj4?si=K4HHl0B0l9rvDUVq)
+3. Visual studio with C++ compiler to run (or use your own compiler if you know what you are doing)
 
 ## Credits
 
