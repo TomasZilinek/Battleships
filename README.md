@@ -17,5 +17,5 @@ Continuation of this project is the [RobotDrawerEditor](https://github.com/Tomas
 
 - [Tomáš Žilínek](https://www.linkedin.com/in/tomaszilinek)
 
-![image description](res/menu.png)
-![image description](res/placement.png)
+![Menu](res/menu.png)
+![Placement](res/placement.png)
